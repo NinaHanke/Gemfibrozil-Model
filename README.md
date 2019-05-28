@@ -6,9 +6,6 @@ Within this repository, we distribute a whole-body parent-metabolite PBPK model 
 
 The PK-Sim project file contains simulations of all published clinical studies employed during model establishment, including the respective observed data digitized from literature reports. For further details, quantitative model evaluation, sensitivity analysis and extensive documentation please refer to [[1](#reference)].
 
-### License
-The model is distributed under the [GPLv2 License](https://github.com/Open-Systems-Pharmacology/Suite/blob/develop/LICENSE). 
-
 ### Version information
 PK-Sim Version 7.4.0
 
